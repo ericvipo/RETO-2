@@ -1,0 +1,48 @@
+#btn{
+  color: white;
+  font-size: 20px;
+  font-family: Impact;
+  background-color: #0040FF;
+  padding: 5px;
+  text-align: center;
+  border: dashed 2px red;
+}
+#panel{
+  border: dashed 2px red;
+  height: 566px;
+  width: 877px;
+  margin: auto;
+  background-image: url("http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2016/01/556958-mejores-juegos-mario-bros.jpg");
+  opacity: 0.9;
+  display: none;
+}
+section{
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+  font-family: Impact;
+  border: dashed 2px red;
+  height: 125px;
+  width: 100%;
+  background-color: yellow;
+  opacity: 0.45;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+img{
+  position: absolute;
+  left: 500px;
+  margin-top: 20px;
+}
+#a,#d,#w,#s{
+  height: 50px;
+  width: 50px;
+  background-color: #A9D0F5;
+  text-align: center;
+  border: dashed 2px #0080FF;
+  display: inline-block;
+  border-radius: 30%;
+  margin-top: 5px;
+  font-family: Impact;
+  font-size: 30px;
+}
